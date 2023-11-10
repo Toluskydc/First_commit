@@ -5,3 +5,12 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
+
+p{
+  color: purple;
+  font-size: 60px
+}
+p:hover{
+  color: green;
+  text-decoration: underline;
+}
